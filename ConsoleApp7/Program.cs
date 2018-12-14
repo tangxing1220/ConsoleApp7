@@ -3,7 +3,7 @@
 
 namespace ConsoleApp7
 {
-
+/*
     class D
     {
         int Mem1;
@@ -19,8 +19,8 @@ namespace ConsoleApp7
         }
     }
 }
+*/
 
-/*
     class D
     {
         int Mem1;
@@ -54,7 +54,7 @@ namespace ConsoleApp7
         }
     }
 }
-*/
+
 /*
 //using System;
 using static System.Console;
