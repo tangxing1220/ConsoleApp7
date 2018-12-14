@@ -11,6 +11,7 @@ namespace CSharp_01
         static void Main(string[] args)
         {
             Console.WriteLine("Hello from CSharp_01");
+            Console.WriteLine("Hello from CSharp_01 branch develop");
         }
     }
 }
